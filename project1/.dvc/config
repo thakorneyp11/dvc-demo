@@ -1,0 +1,4 @@
+[core]
+    remote = public
+['remote "public"']
+    url = azure://testdvcblob/eyp_project1

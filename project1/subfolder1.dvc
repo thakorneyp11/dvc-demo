@@ -1,0 +1,5 @@
+outs:
+- md5: 65d80d2afd61beb9124a91c2c83b8587.dir
+  size: 11
+  nfiles: 1
+  path: subfolder1
